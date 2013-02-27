@@ -7,6 +7,7 @@
 </head>
 <body>
 <div>
+    <h2>Panoramas</h2>
     <ul>
         <li><a href="sprint.html" title="Sprint">Sprint</a></li>
         <li><a href="snow.html" title="Snow">Snow</a></li>
