@@ -1,3 +1,10 @@
+<?php
+
+foreach (glob("images/panorama/*.jpg") as $filename) {
+    echo "$filename size " . filesize($filename) . "\n";
+}
+
+    ?>
 <!doctype html>
 <html lang="en">
 <head>
