@@ -1,7 +1,9 @@
 <?php
 
+$filenames = Array();
 foreach (glob("images/panorama/*.jpg") as $filename) {
-    echo "$filename size " . filesize($filename) . "\n";
+    //echo "$filename size " . filesize($filename) . "\n";
+    $filenames[] = $filename;
 }
 
     ?>
