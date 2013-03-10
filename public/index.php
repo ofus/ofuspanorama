@@ -21,6 +21,7 @@ foreach (glob("images/panorama/*.jpg") as $filename) {
         <li><a href="sprint.html" title="Sprint">Sprint</a></li>
         <li><a href="snow.html" title="Snow">Snow</a></li>
         <li><a href="snow2.html" title="snow2">Snow2</a></li>
+        <li><a href="images/sprint" title="Sprint">More Sprint</a></li>
     </ul>
 </div>
 </body>
